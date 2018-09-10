@@ -1,8 +1,17 @@
 # Indeed2excel
-Make a Excel of Position offer information from Indeed
+Make a Exce l of Position offer information from Indeed
 
-### faster_version  
+## app.py
+### _Run_
+`python app.py`
+then, sys ask you URL, mount pages,savename
+
+## faster_version  
 `faster_version.py` is update version. It is faster than app.py since use `ThreadPoolExecutor` which can Parallel processing.  
   
-_worning_  
+### _worning_  
 This scripts having a high load imposed on a server side.
+
+### _Run_
+`$ python faster_version.py`
+then, sys ask you URL...
