@@ -5,7 +5,7 @@ Make a Exce l of Position offer information from Indeed
 ## app.py  
 ### Usage 
 `$ python app.py`  
-then, sys ask you URL, mount pages,savename  
+then, sys ask you URL, mount pages and savename  
   
     
 ## faster_version  .py
